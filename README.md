@@ -23,4 +23,4 @@ cd FB-CLONING
 
 ls
 
-python CLONNING.py
+python Cloning.py
